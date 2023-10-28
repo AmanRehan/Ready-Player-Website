@@ -2,6 +2,8 @@
 
 #<b>Deployed Link</b> => https://readyplayer-one.vercel.app/
 
+<b>Instructions: <b> => Wait 15 seconds and scroll slowly initially to render images. Once the rendering is complete, do you as wish.😁
+
 <b>Screenshots</b>
 
 <img width="1434" alt="Screenshot 2023-10-28 at 1 09 36 PM" src="https://github.com/AmanRehan/Ready-Player-Website/assets/43596541/6a02b2bb-7b55-42eb-b0eb-186efd1e17d0">
